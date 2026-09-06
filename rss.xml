@@ -1,10 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lleida.net — Notas de prensa</title>
     <link>https://investors.lleida.net/es/prensa</link>
     <description>Notas de prensa y noticias publicadas por Lleida.net para inversores.</description>
     <language>es</language>
-    <atom:link href="https://raw.githubusercontent.com/plis2100/lleidanet-prensa-rss/main/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 06 Sep 2026 18:44:04 +0000</lastBuildDate>
+    <generator>GitHub Actions RSS Generator</generator>
+    <ns0:link href="https://raw.githubusercontent.com/plis2100/lleidanet-prensa-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lleida.net reduce un 27% su EBITDA trimestral en pleno giro al B2C</title>
+      <link>https://investors.lleida.net/es/prensa?prid=2602</link>
+      <guid isPermaLink="false">lleidanet-prensa-2602</guid>
+      <pubDate>Tue, 04 Aug 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Deuda financiera a 30 de junio de 2026&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2602&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2602"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Lleida.net</author>
+      <category>Lleida.net</category>
+      <category>Notas de prensa</category>
+      <category>BME Growth</category>
+    </item>
+    <item>
+      <title>Lleida.net cierra junio con 12.545 clientes al final del primer semestre del 2026, y consolida su transformación a empresa B2C</title>
+      <link>https://investors.lleida.net/es/prensa?prid=2590</link>
+      <guid isPermaLink="false">lleidanet-prensa-2590</guid>
+      <pubDate>Fri, 31 Jul 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2590&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2590"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Lleida.net</author>
+      <category>Lleida.net</category>
+      <category>Notas de prensa</category>
+      <category>BME Growth</category>
+    </item>
+    <item>
+      <title>Lleida.net registra 791 altas de clientes en junio, máximo de su historia</title>
+      <link>https://investors.lleida.net/es/prensa?prid=2582</link>
+      <guid isPermaLink="false">lleidanet-prensa-2582</guid>
+      <pubDate>Mon, 13 Jul 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2582&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2582"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Lleida.net</author>
+      <category>Lleida.net</category>
+      <category>Notas de prensa</category>
+      <category>BME Growth</category>
+    </item>
+    <item>
+      <title>Lleida.net participa en Money20/20 Europe para impulsar la identidad digital y los servicios de confianza</title>
+      <link>https://investors.lleida.net/es/prensa?prid=2599</link>
+      <guid isPermaLink="false">lleidanet-prensa-2599</guid>
+      <pubDate>Thu, 04 Jun 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2599&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2599"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Lleida.net</author>
+      <category>Lleida.net</category>
+      <category>Notas de prensa</category>
+      <category>BME Growth</category>
+    </item>
+    <item>
+      <title>Lleida.net reduce sus ventas un 11% en el primer trimestre y rebaja su deuda financiera neta en 434.000 euros</title>
+      <link>https://investors.lleida.net/es/prensa?prid=2569</link>
+      <guid isPermaLink="false">lleidanet-prensa-2569</guid>
+      <pubDate>Tue, 05 May 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2569&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2569"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Lleida.net</author>
+      <category>Lleida.net</category>
+      <category>Notas de prensa</category>
+      <category>BME Growth</category>
+    </item>
   </channel>
 </rss>

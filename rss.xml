@@ -5,15 +5,15 @@
     <link>https://investors.lleida.net/es/prensa</link>
     <description>Notas de prensa y noticias publicadas por Lleida.net para inversores.</description>
     <language>es</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:50:44 +0000</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/lleidanet-prensa-rss/main/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lleida.net participa en ANDICOM 2026 con soluciones de notificación electrónica certificada, firma digital y automatización de procesos</title>
-      <link>https://investors.lleida.net/es/prensa?prid=2608</link>
-      <guid isPermaLink="false">lleidanet-prensa-2608</guid>
+      <link>https://investors.lleida.net/es/prensa?prid=2610</link>
+      <guid isPermaLink="false">lleidanet-prensa-2610</guid>
       <pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
-      <description>&lt;p&gt;Cartagena de Indias, 4 de septiembre de 2026. -&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2608&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2608"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Cartagena de Indias, 4 de septiembre de 2026. -&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2610&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2610"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
       <author>Lleida.net</author>
       <category>Lleida.net</category>
       <category>Notas de prensa</category>
@@ -58,6 +58,17 @@
       <guid isPermaLink="false">lleidanet-prensa-2599</guid>
       <pubDate>Thu, 04 Jun 2026 10:00:00 +0000</pubDate>
       <description>&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2599&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2599"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Lleida.net</author>
+      <category>Lleida.net</category>
+      <category>Notas de prensa</category>
+      <category>BME Growth</category>
+    </item>
+    <item>
+      <title>Lleida.net participa en ANDICOM 2026 con soluciones de notificación electrónica certificada, firma digital y automatización de procesos</title>
+      <link>https://investors.lleida.net/es/prensa?prid=2608</link>
+      <guid isPermaLink="false">lleidanet-prensa-2608</guid>
+      <pubDate>Mon, 07 Sep 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Cartagena de Indias, 4 de septiembre de 2026. -&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2608&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2608"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
       <author>Lleida.net</author>
       <category>Lleida.net</category>
       <category>Notas de prensa</category>

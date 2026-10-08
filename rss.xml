@@ -5,15 +5,26 @@
     <link>https://investors.lleida.net/es/prensa</link>
     <description>Notas de prensa y noticias publicadas por Lleida.net para inversores.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 07 Oct 2026 11:59:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:14:03 +0000</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/lleidanet-prensa-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lleida.net presenta en Expo Relación Cliente su propuesta para dotar de seguridad jurídica a cada interacción con el cliente</title>
+      <link>https://investors.lleida.net/es/prensa?prid=2646</link>
+      <guid isPermaLink="false">lleidanet-prensa-2646</guid>
+      <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La compañía de servicios tecnológicos Lleida.net (BME:LLN, EPA:ALLLN) participa en Expo Relación Cliente 2026, el evento de referencia en España para profesionales de la experiencia de cliente, el contact center y la inteligencia artificial. Organizado por IFAES en Kinépolis Ciudad de la Imagen (Madrid), reúne a compañías líderes del sector en torno a las últimas tendencias, tecnologías y mejores prácticas para optimizar la relación entre empresas y clientes.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2646&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2646"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Lleida.net</author>
+      <category>Lleida.net</category>
+      <category>Notas de prensa</category>
+      <category>BME Growth</category>
+    </item>
     <item>
       <title>El registro de remitentes eleva un 40% el tráfico de SMS de Lleida.net hacia España</title>
       <link>https://investors.lleida.net/es/prensa?prid=2640</link>
       <guid isPermaLink="false">lleidanet-prensa-2640</guid>
       <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
-      <description>&lt;p&gt;Lleida.net es operador de telecomunicaciones con numeración propia asignada por la CNMC, y puede asignar número a sus clientes. Con el registro, el tráfico de las grandes plataformas de mensajería se dirige hacia los proveedores autorizados.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2640&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2640"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2640&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2640"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
       <author>Lleida.net</author>
       <category>Lleida.net</category>
       <category>Notas de prensa</category>

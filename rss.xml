@@ -5,15 +5,26 @@
     <link>https://investors.lleida.net/es/prensa</link>
     <description>Notas de prensa y noticias publicadas por Lleida.net para inversores.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 20 Oct 2026 15:21:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:34:53 +0000</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/lleidanet-prensa-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lleida.net gana 354.000 euros en el semestre y recorta su deuda neta</title>
+      <link>https://investors.lleida.net/es/prensa?prid=2656</link>
+      <guid isPermaLink="false">lleidanet-prensa-2656</guid>
+      <pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Las ventas alcanzaron 9,234 millones de euros y el EBITDA, 1,572 millones, frente a 10,134 y 2,195 millones en el primer semestre de 2025.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2656&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2656"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Lleida.net</author>
+      <category>Lleida.net</category>
+      <category>Notas de prensa</category>
+      <category>BME Growth</category>
+    </item>
     <item>
       <title>16 Audiencias Provinciales aceptan el correo electrónico certificado de Lleida.net como prueba para el MASC</title>
       <link>https://investors.lleida.net/es/prensa?prid=2652</link>
       <guid isPermaLink="false">lleidanet-prensa-2652</guid>
       <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
-      <description>&lt;p&gt;España tramita cada año unos 3,5 millones de procedimientos judiciales afectados por esa obligación. La compañía cerró junio con 12.545 clientes activos, la cifra más alta de su historia, y registró ese mes 791 altas de nuevos clientes, su máximo mensual. Sin esa acreditación, el juzgado puede inadmitir la demanda sin entrar en el fondo del asunto.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2652&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2652"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2652&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2652"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
       <author>Lleida.net</author>
       <category>Lleida.net</category>
       <category>Notas de prensa</category>

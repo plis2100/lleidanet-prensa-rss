@@ -5,15 +5,26 @@
     <link>https://investors.lleida.net/es/prensa</link>
     <description>Notas de prensa y noticias publicadas por Lleida.net para inversores.</description>
     <language>es</language>
-    <lastBuildDate>Tue, 10 Nov 2026 13:45:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:57:11 +0000</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/lleidanet-prensa-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Máximo histórico de altas de nuevos clientes en un mes para Lleida.net en octubre del 2026</title>
+      <link>https://investors.lleida.net/es/prensa?prid=2693</link>
+      <guid isPermaLink="false">lleidanet-prensa-2693</guid>
+      <pubDate>Wed, 11 Nov 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Frente a septiembre, la cifra avanza un 46% y suma 413 altas más que el récord anterior.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2693&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2693"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Lleida.net</author>
+      <category>Lleida.net</category>
+      <category>Notas de prensa</category>
+      <category>BME Growth</category>
+    </item>
     <item>
       <title>Lleida.net factura a 4.902 clientes en el tercer trimestre, un 44% más</title>
       <link>https://investors.lleida.net/es/prensa?prid=2687</link>
       <guid isPermaLink="false">lleidanet-prensa-2687</guid>
       <pubDate>Tue, 03 Nov 2026 11:00:00 +0000</pubDate>
-      <description>&lt;p&gt;La compañía emitió 7.947 facturas en el trimestre, un 29% más.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2687&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2687"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2687&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2687"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
       <author>Lleida.net</author>
       <category>Lleida.net</category>
       <category>Notas de prensa</category>

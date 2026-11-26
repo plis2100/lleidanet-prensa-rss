@@ -5,15 +5,26 @@
     <link>https://investors.lleida.net/es/prensa</link>
     <description>Notas de prensa y noticias publicadas por Lleida.net para inversores.</description>
     <language>es</language>
-    <lastBuildDate>Wed, 25 Nov 2026 16:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:46:14 +0000</lastBuildDate>
     <generator>GitHub Actions RSS Generator</generator>
     <ns0:link href="https://raw.githubusercontent.com/plis2100/lleidanet-prensa-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lleida.net supera los 20.000 clientes activos</title>
+      <link>https://investors.lleida.net/es/prensa?prid=2699</link>
+      <guid isPermaLink="false">lleidanet-prensa-2699</guid>
+      <pubDate>Thu, 26 Nov 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Lleida.net comenzó 2026 con 8.886 clientes activos y cerró junio con 12.545. Desde entonces ha sumado más de 7.400.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2699&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2699"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Lleida.net</author>
+      <category>Lleida.net</category>
+      <category>Notas de prensa</category>
+      <category>BME Growth</category>
+    </item>
     <item>
       <title>Máximo histórico de altas de nuevos clientes en un mes para Lleida.net en octubre del 2026</title>
       <link>https://investors.lleida.net/es/prensa?prid=2693</link>
       <guid isPermaLink="false">lleidanet-prensa-2693</guid>
       <pubDate>Wed, 11 Nov 2026 11:00:00 +0000</pubDate>
-      <description>&lt;p&gt;Frente a septiembre, la cifra avanza un 46% y suma 413 altas más que el récord anterior.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2693&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2693"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Identificador:&lt;/strong&gt; 2693&lt;/p&gt;&lt;p&gt;&lt;a href="https://investors.lleida.net/es/prensa?prid=2693"&gt;Leer la noticia completa en Lleida.net&lt;/a&gt;&lt;/p&gt;</description>
       <author>Lleida.net</author>
       <category>Lleida.net</category>
       <category>Notas de prensa</category>
